@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 test_bot.py
+python test_bot.py
